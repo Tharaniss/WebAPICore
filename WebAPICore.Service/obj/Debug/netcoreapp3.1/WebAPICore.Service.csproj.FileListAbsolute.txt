@@ -1,0 +1,17 @@
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\bin\Debug\netcoreapp3.1\WebAPICore.Service.exe
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\bin\Debug\netcoreapp3.1\WebAPICore.Service.deps.json
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\bin\Debug\netcoreapp3.1\WebAPICore.Service.runtimeconfig.json
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\bin\Debug\netcoreapp3.1\WebAPICore.Service.runtimeconfig.dev.json
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\bin\Debug\netcoreapp3.1\WebAPICore.Service.dll
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\bin\Debug\netcoreapp3.1\WebAPICore.Service.pdb
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\obj\Debug\netcoreapp3.1\staticwebassets\WebAPICore.Service.StaticWebAssets.Manifest.cache
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\obj\Debug\netcoreapp3.1\staticwebassets\WebAPICore.Service.StaticWebAssets.xml
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\obj\Debug\netcoreapp3.1\WebAPICore.Service.MvcApplicationPartsAssemblyInfo.cache
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\obj\Debug\netcoreapp3.1\WebAPICore.Service.AssemblyInfoInputs.cache
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\obj\Debug\netcoreapp3.1\WebAPICore.Service.AssemblyInfo.cs
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\obj\Debug\netcoreapp3.1\WebAPICore.Service.RazorTargetAssemblyInfo.cache
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\obj\Debug\netcoreapp3.1\WebAPICore.Service.dll
+D:\Tharani Sankaran Selvam\POC\C#\WebAPICore\WebAPICore.Service\obj\Debug\netcoreapp3.1\WebAPICore.Service.pdb
